@@ -1,0 +1,1 @@
+# StrataScrach_GoldmanSachs_Minimum-Number-of-Platforms
